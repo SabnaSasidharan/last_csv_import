@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\application",
+    "\\application\\config",
+    "\\application\\controllers",
+    "\\application\\libraries",
+    "\\application\\models",
+    "\\application\\views",
+    "\\application\\views\\members"
+  ],
+  "SelectedNode": "\\application\\views\\welcome_message.php",
+  "PreviewInSolutionExplorer": false
+}
